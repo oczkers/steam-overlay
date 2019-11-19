@@ -319,6 +319,7 @@ UNBUNDLEABLES=(
 	"BioShock Infinite"
 	"Destination Sol"
 	"Deus Ex Mankind Divided"
+	"DoorKickers"
 	"dota 2 beta"
 	"dota 2"
 	"Duck Game" # Effective when https://github.com/0x0ade/DuckGame-Linux is applied.
