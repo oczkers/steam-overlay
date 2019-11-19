@@ -316,6 +316,7 @@ UNBUNDLEABLES=(
 	"Alien Isolation"
 	"Altitude"
 	"Anodyne"
+	"BioShock Infinite"
 	"Destination Sol"
 	"Deus Ex Mankind Divided"
 	"dota 2 beta"
